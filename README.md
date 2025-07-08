@@ -1,16 +1,32 @@
-# snake_game
+# 🐍 Flutter Snake Game with Emoji Food
 
-A new Flutter project.
+A fun and colorful Snake Game built using **Flutter**, featuring emoji food, dynamic speed, and game-over detection when hitting the screen edges. Controls use your mouse pointer!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎮 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🐍 Smooth snake movement
+- 🎯 Target emoji food using mouse
+- 🧠 Snake grows as it eats
+- 🚀 Speed increases after each food eaten
+- 📉 Game over when snake hits the edge
+- 📈 Real-time score display
+- 🔁 Option to restart or play again after game over
+- 🎨 Colorful gradient snake segments
+- 🍎 Multiple food emojis (🍎 🍇 🍒 🍕 🍩 🥑 🥕 🌮 etc.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Demo
+
+![snake_game_demo](screenshots/demo.gif) <!-- Replace with your GIF or screenshot path -->
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/shreeram2302/snake_game.git
