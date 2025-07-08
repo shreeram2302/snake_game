@@ -19,8 +19,9 @@ A fun and colorful Snake Game built using **Flutter**, featuring emoji food, dyn
 ---
 
 ## 🧪 Demo
+Visit this url to try game :
+https://shreeram2302.github.io/snake_game_demo_repo/
 
-![snake_game_demo](screenshots/demo.gif) <!-- Replace with your GIF or screenshot path -->
 
 ---
 
